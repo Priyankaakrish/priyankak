@@ -9,7 +9,6 @@ This GitHub showcases my **end-to-end data pipelines, real-time streaming projec
 **Data**: Azure Data Factory, Databricks, Synapse, Airflow, Kafka, Spark  
 **Visualization**: Power BI, Tableau  
 **DevOps**: Git, Docker, CI/CD, Azure DevOps
-# 🚖 Azure ETL Pipeline — NYC Taxi Data
 
 
 ## 🏗 Architecture
