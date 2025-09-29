@@ -8,13 +8,6 @@ This GitHub showcases my **end-to-end data pipelines, real-time streaming projec
 
 ---
 
-## 🚀 Featured Projects
-| Project | Description | Tech Stack |
-|--------|-------------|-----------|
-| [🎧 Spotify Data Pipeline](https://github.com/priyanka/spotify-etl-pipeline) | Automated ETL pipeline using AWS Glue & Lambda to process Spotify streaming data | AWS, Python, Athena, S3 |
-| [📡 Real-Time IoT Pipeline](https://github.com/priyanka/iot-streaming-pipeline) | Kafka → Spark Streaming → Delta Lake → Power BI | Azure, Kafka, Spark, Databricks |
-| [🏗️ Data Warehouse on Azure](https://github.com/priyanka/azure-etl-pipeline) | Batch ETL using Azure Data Factory & Synapse with Star Schema | ADF, ADLS, Synapse, Power BI |
-
 ---
 
 ## 🛠️ Tech Stack
