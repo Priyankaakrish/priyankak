@@ -4,12 +4,6 @@
 I'm passionate about designing scalable data solutions using modern data engineering tools and cloud platforms.  
 This GitHub showcases my **end-to-end data pipelines, real-time streaming projects, and cloud deployments**.
 
-
-
----
-
----
-
 ## 🛠️ Tech Stack
 **Languages**: Python, SQL, Shell  
 **Data**: Azure Data Factory, Databricks, Synapse, Airflow, Kafka, Spark  
@@ -17,8 +11,6 @@ This GitHub showcases my **end-to-end data pipelines, real-time streaming projec
 **DevOps**: Git, Docker, CI/CD, Azure DevOps
 # 🚖 Azure ETL Pipeline — NYC Taxi Data
 
-## 📝 Problem
-Build an automated ETL pipeline to process and analyze NYC Taxi trip data for reporting and analytics.
 
 ## 🏗 Architecture
 ADF → ADLS → Databricks (PySpark) → Synapse → Power BI Dashboard
