@@ -43,6 +43,9 @@ ADF → ADLS → Databricks (PySpark) → Synapse → Power BI Dashboard
 ## 📈 Impact
 - Reduced manual ETL effort by 90%  
 - Enabled near real-time reporting of 1M+ records
+- 
+## 🏗 Architecture
+![Architecture](./architecture.png)
 
 ---
 
