@@ -20,6 +20,29 @@ This GitHub showcases my **end-to-end data pipelines, real-time streaming projec
 **Data**: Azure Data Factory, Databricks, Synapse, Airflow, Kafka, Spark  
 **Visualization**: Power BI, Tableau  
 **DevOps**: Git, Docker, CI/CD, Azure DevOps
+# 🚖 Azure ETL Pipeline — NYC Taxi Data
+
+## 📝 Problem
+Build an automated ETL pipeline to process and analyze NYC Taxi trip data for reporting and analytics.
+
+## 🏗 Architecture
+ADF → ADLS → Databricks (PySpark) → Synapse → Power BI Dashboard
+
+## 🧰 Tools & Tech
+- Azure Data Factory  
+- Azure Databricks  
+- Delta Lake  
+- Power BI
+
+## 🚀 Key Features
+- Automated ingestion from external blob  
+- PySpark transformations & partitioning  
+- Star schema data modeling for analytics  
+- Power BI dashboards for trends
+
+## 📈 Impact
+- Reduced manual ETL effort by 90%  
+- Enabled near real-time reporting of 1M+ records
 
 ---
 
