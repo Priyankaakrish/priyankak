@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Priyanka K  
-💻 **Azure Certified Data Engineer** | 🧠 Building ETL & Streaming Pipelines | ☁️ ADF | Databricks | Spark | Kafka  
+💻 **Data Engineer** | 🧠 Building ETL & Streaming Pipelines | ☁️ ADF | Databricks | Spark | Kafka  
 
 I'm passionate about designing scalable data solutions using modern data engineering tools and cloud platforms.  
 This GitHub showcases my **end-to-end data pipelines, real-time streaming projects, and cloud deployments**.
+
+
 
 ---
 
